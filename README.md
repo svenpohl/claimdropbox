@@ -14,9 +14,12 @@ transfer Asset [1099558621293] with the memo "xusotestacc1"
 *You also can transfer multiple NFT's to the claimdropbox-contract:*
 
 xusotestacc1 wants do claimdrop his NFT with assetids #1099558621293,1099558621294,1099558621295 to the accounts xusotestacc1,xusotestacc3 and xusotestacc4 
-transfer Asset [1099558621293,1099558621294,1099558621295] with the memo "xusotestacc1,xusotestacc3,xusotestacc4"
 
-*Cancel a drop*
+'''
+transfer Asset [1099558621293,1099558621294,1099558621295] with the memo "xusotestacc1,xusotestacc3,xusotestacc4"
+'''
+
+*Cancel a drop:*
 
 You can cancel a drop, if a user does not claim it at any time
 1) go to claimdropbox-account to contract tab, select table "drops" and find the id ( id(key) ) where you are the sender
