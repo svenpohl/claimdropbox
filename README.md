@@ -15,9 +15,9 @@ transfer Asset [1099558621293] with the memo "xusotestacc1"
 
 xusotestacc1 wants do claimdrop his NFT with assetids #1099558621293,1099558621294,1099558621295 to the accounts xusotestacc1,xusotestacc3 and xusotestacc4 
 
-'''
 transfer Asset [1099558621293,1099558621294,1099558621295] with the memo "xusotestacc1,xusotestacc3,xusotestacc4"
-'''
+
+
 
 *Cancel a drop:*
 
